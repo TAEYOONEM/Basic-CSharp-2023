@@ -14,7 +14,7 @@ namespace ConsoleApp1
         /// <param name="args"> Console Arguments</param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello C#!!");
+            Console.WriteLine("Hello C#!!ㅁㄴㅇ");
         }
     }
 }
