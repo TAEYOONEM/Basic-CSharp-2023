@@ -40,6 +40,7 @@ src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/w
 	- WinForms 파일복사 앱
 	- 로그인 앱 실습
 
+
 ## 5일차
 - C# 기본
 	- 인터페이스, 추상클래스
@@ -51,3 +52,28 @@ src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/w
 5일차 윈도우 탐색기 만들기 ing
 <img
 src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/winform2.png" width="700">
+
+
+## 6일차
+- C# 기본
+	- 컬렉션
+	- 일반화(Generic) 프로그래밍
+	- 예외처리
+	
+- Win App
+	- 탐색기 마무리
+		- 추가 개발 리스트
+		- 컨택스트 메뉴(마우스 오른쪽 메뉴)
+		- 보호된 운영체제 폴더 숨기기
+		- 리스트뷰 폴더 더블클릭시 하위폴더 표시
+	- DB 핸들링
+
+6일차 윈도우 탐색기 만들기 완료
+
+<img
+src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/winform3.png" width="700">
+
+
+## 7일차
+	- BookRentalShop DB 사용 WinForms 앱개발
+	- 실습 예제
