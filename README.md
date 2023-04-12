@@ -69,11 +69,18 @@ src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/w
 	- DB 핸들링
 
 6일차 윈도우 탐색기 만들기 완료
-
 <img
 src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/winform3.png" width="700">
 
 
 ## 7일차
+- C# 기본
+	- 대리자, 이벤트
+	- 람다식
+	- 파일 핸들링
+	- 더 공부해야할 내용 (LINQ, 리플렉션, dynamic)
+	
+- WinApp
+	- DB 핸들링
 	- BookRentalShop DB 사용 WinForms 앱개발
 	- 실습 예제
