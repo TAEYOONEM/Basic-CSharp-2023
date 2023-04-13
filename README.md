@@ -77,10 +77,24 @@ src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/w
 - C# 기본
 	- 대리자, 이벤트
 	- 람다식
+	- 애트리뷰트
 	- 파일 핸들링
 	- 더 공부해야할 내용 (LINQ, 리플렉션, dynamic)
 	
 - WinApp
 	- DB 핸들링
-	- BookRentalShop DB 사용 WinForms 앱개발
-	- 실습 예제
+	- SDI VS MDI
+
+## 8일차
+- C# 기본
+	- 파일 핸들링
+	- 스레드/ 테스크
+	- 가비지 컬렉션
+	
+- WinApp 
+	- BookRentalShop DB 사용 WinForms 개발
+	- 실습예제
+	
+심플메모장
+<img
+src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/winform4.png" width="700">
