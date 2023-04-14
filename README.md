@@ -93,8 +93,18 @@ src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/w
 	
 - WinApp 
 	- BookRentalShop DB 사용 WinForms 개발
-	- 실습예제
+	- WinForms MDI
+	- MySQL.DaTa Lib DB연동
 	
 심플메모장
 <img
 src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/winform4.png" width="700">
+
+
+## 9일차
+- C# 기본
+	- 스레드/ 테스크
+	- 가비지 컬렉션
+
+- WinApp
+	- BookRentalShop 만들기 계속
