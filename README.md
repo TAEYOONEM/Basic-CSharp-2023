@@ -111,6 +111,10 @@ src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/w
 	
 ## 10일차
 - WinApp
-	- BookRentalShop 만들기 계속
+	- BookRentalShop 만들기 마무리
 	
 - 코딩테스트
+
+10일차 책대여점 프로그램 
+<img
+src="https://raw.githubusercontent.com/TaeYoonSS/Basic-CSharp-2023/main/images/winform5.png" width="700">
